@@ -1,0 +1,9 @@
+torch
+xformers
+accelerate
+diffusers
+omegaconf
+peft
+pytorch-lightning
+safetensors
+transformers
